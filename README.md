@@ -4,7 +4,7 @@
   <h1>Hi 👋 
     <br>
     <a href="https://github.com/shiinahan/">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta&pause=1000&width=435&lines=I%27m+Ahmad+Farhan+Ramadhan">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta&pause=1000&center=true&vCenter=true&width=435&lines=I%27m+Ahmad+Farhan+Ramadhan">
     </a>
   </h1>
   

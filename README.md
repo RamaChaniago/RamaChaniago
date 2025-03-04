@@ -54,8 +54,10 @@
  <img src="https://raw.githubusercontent.com/RamaChaniago/RamaChaniago/output/snake.svg" alt="Snake animation" />
 
   <!-- Visitor Counter -->
-  <div>
-    <img src="https://profile-counter.glitch.me/shiinahan/count.svg?" alt="Visitor counter">
-  </div>
+ <div>
+  <img src="https://profile-counter.glitch.me/RamaChaniago/count.svg?"  />
+</div>
+
+###
 
 </div>

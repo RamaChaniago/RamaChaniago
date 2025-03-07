@@ -34,7 +34,7 @@
   -->
   <!-- Socials Section -->
  <h3 align="center">Connect with me:</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://instagram.com/frhnahnnn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
   </a>
@@ -47,7 +47,7 @@
   <a href="https://x.com/RamaChaniago_" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white">
   </a>
-</p>
+</p> -->
   
 
   <!-- Snake Animation -->

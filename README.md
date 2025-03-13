@@ -10,7 +10,8 @@
   
   <h3>
     Welcome to my profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+    <img src="https://tenor.com/oj4gEtPa0Dt.gif">
   </h3>
   
   <h3>📚 A student who loves to learn</h3>

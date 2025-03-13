@@ -17,7 +17,7 @@
 
   <!-- GIF -->
   <!-- <img height="200" src="https://media1.tenor.com/m/Wz1BLckFRq4AAAAC/jkt48-oline-manuel.gif"> -->
-  <img height="200" src="[https://tenor.com/oj4gEtPa0Dt.gif](https://media1.tenor.com/m/pO1s9r07apkAAAAC/zweezygif-oline-manuel.gif)">
+  <img height="200" src="https://media1.tenor.com/m/pO1s9r07apkAAAAC/zweezygif-oline-manuel.gif">
   <!-- About Section -->
   <div>
     <h2>💫 About Me</h2>

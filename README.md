@@ -19,7 +19,8 @@
   <!-- <img height="200" src="https://media1.tenor.com/m/Wz1BLckFRq4AAAAC/jkt48-oline-manuel.gif"> -->
   <!-- <img height="200" src="https://media1.tenor.com/m/pO1s9r07apkAAAAC/zweezygif-oline-manuel.gif"> -->
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R1c3Jxa2VjY29sd2FyMzBvdmJweHVhdzdwdDR5YXVkcGQ0czhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AoLprNw1m6482WoihC/giphy.gif">
-  <img height="200" src="https://c.tenor.com/xeBeOwn4ZhYAAAAC/tenor.gif">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlrZXU1czd3MWN1d2V6NGNvYmFvcXpzdDY2azF2emZoNWJ3Y2pyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yGk3uLjB45hxtX8Yjz/giphy.gif">
+  <!-- <img height="200" src="https://c.tenor.com/xeBeOwn4ZhYAAAAC/tenor.gif"> -->
   <!-- About Section -->
   <div>
     <h2>💫 About Me</h2>

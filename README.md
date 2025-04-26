@@ -56,14 +56,17 @@
 
   <!-- Snake Animation -->
  <img src="https://raw.githubusercontent.com/RamaChaniago/RamaChaniago/output/snake.svg" alt="Snake animation" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiinahan/shiinahan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiinahan/shiinahan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shiinahan/shiinahan/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
+
+  <!-- Pacman Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamaChaniago/RamaChaniago/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamaChaniago/RamaChaniago/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RamaChaniago/RamaChaniago/output/pacman-contribution-graph.svg">
+  </picture>
+
+###
   <!-- Visitor Counter -->
  <div>
   <img src="https://profile-counter.glitch.me/RamaChaniago/count.svg?"  />

@@ -56,7 +56,7 @@
 
   <!-- Snake Animation -->
  <img src="https://raw.githubusercontent.com/RamaChaniago/RamaChaniago/output/snake.svg" alt="Snake animation" />
-
+###
 
 
   <!-- Pacman Animation -->

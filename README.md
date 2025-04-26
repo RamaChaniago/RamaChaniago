@@ -54,11 +54,11 @@
 </p>
 -->
 
-  <!-- Snake Animation -->
+  <!-- Snake Animation 
 <img src="https://raw.githubusercontent.com/RamaChaniago/RamaChaniago/output/snake.svg" alt="Snake animation" />
 
 ###
-
+-->
 
   <!-- Pacman Animation -->
  <picture>
